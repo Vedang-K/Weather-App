@@ -26,8 +26,9 @@ This project is a **modern, GUI-based Weather App** built using **Python**, **Py
 ## 📂 Folder Structure
 ```
 WeatherApp/
-├── weather_app.py # Main application script
+├── WeatherApp.py # Main application script
 ├── weatherAppIcon.png # Icon shown on the app window
+├── weather_screenshot.png # Screenshot of working application
 └── README.md # Project documentation
 ```
 
